@@ -1,0 +1,2 @@
+bilangan = int(10)
+
