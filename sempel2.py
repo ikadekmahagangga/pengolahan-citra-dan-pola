@@ -1,2 +1,2 @@
-bilangan = int(10)
-
+import cv2
+print("Hello World")
